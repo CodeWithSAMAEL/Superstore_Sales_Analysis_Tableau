@@ -29,7 +29,8 @@ The dashboard will provide information about revenue generation, profitability, 
 
 ## Dashboard Preview
 
-![Dashboard]([Images/Dashboard_Overview.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Dashboard_Overview.png))
+![Dashboard]
+([Images/Dashboard_Overview.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Dashboard_Overview.png))
 
 ## Key Insights
 
