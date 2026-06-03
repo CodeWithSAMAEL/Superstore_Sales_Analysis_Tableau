@@ -41,13 +41,12 @@ This is the base representaion of Superstore Sales.
 ### 2. Regional Performance
 
 The West region contributes the highest overall profit.
-(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_2.png))
+![Regional Performance](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_2.png))
 
 ### 3. Category Analysis
 
 Electronics generates the highest revenue among all categories.
-
-(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_3.png))
+![Category Analysis](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_3.png))
 
 
 ## Skills Demonstrated
