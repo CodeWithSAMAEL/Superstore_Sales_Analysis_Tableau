@@ -83,6 +83,6 @@ This dashboard helps identify:
 
 The original Superstore Sales dataset was obtained from Kaggle and was used for educational and portfolio purposes.
 
-**Source:** [https://www.kaggle.com/datasets/akelvarghese/global-superstore-sales-dataset]
+**Source:** https://www.kaggle.com/datasets/akelvarghese/global-superstore-sales-dataset
 
 The dataset was cleaned and prepared in Microsoft Excel before being analyzed and visualized in Tableau. Additional calculated fields and business metrics were created to support dashboard development and insight generation.
