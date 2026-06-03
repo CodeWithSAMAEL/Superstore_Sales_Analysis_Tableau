@@ -30,25 +30,25 @@ The dashboard will provide information about revenue generation, profitability, 
 ## Dashboard Preview
 
 ![Dashboard]
-([Images/Dashboard_Overview.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Dashboard_Overview.png))
+(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Dashboard_Overview.png)
 
 ## Key Insights
 
 ### 2. Base Representation
 
 This is the base representaion of Superstore Sales.
-![Base Representation]([Images/Storypoint_1.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_1.png))
+(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_1.png)
 
 ### 2. Regional Performance
 
 The West region contributes the highest overall profit.
-![Regional Performance]([Images/Storypoint_2.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_2.png))
+(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_2.png))
 
 ### 3. Category Analysis
 
 Electronics generates the highest revenue among all categories.
 
-![Category Analysis]([Images/Storypoint_3.png](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_3.png))
+(https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_3.png))
 
 
 ## Skills Demonstrated
