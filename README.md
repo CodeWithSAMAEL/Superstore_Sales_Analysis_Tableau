@@ -33,7 +33,7 @@ The dashboard will provide information about revenue generation, profitability, 
 
 ## Key Insights
 
-### 2. Base Representation
+### 1. Base Representation
 
 This is the base representaion of Superstore Sales.
 ![Base Representation](https://github.com/CodeWithSAMAEL/Superstore_Sales_Analysis_Tableau/blob/main/images/Storypoint_1.png)
